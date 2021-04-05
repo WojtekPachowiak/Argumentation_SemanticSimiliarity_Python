@@ -1,5 +1,5 @@
-# Is semantic similarity a good predictor of an inference relation between propositions?
-## An attemp at training a classifier on US2016D1Reddit corpus.
+# Is semantic similarity a good predictor of an inference relation between propositions? An attemp at training a classifier on US2016D1Reddit corpus.
+
 
 Article (in Polish, unpublished) describing the project and the code:  
 [Article_SemanticSimiliarity _and_argumentation.pdf](https://github.com/WojtekPachowiak/Argumentation_SemanticSimiliarity_Python/files/6258989/Article_SemanticSimiliarity._and_argumentation.pdf)
