@@ -3,6 +3,7 @@
 **Summary**:
 I calculate vector representations (meaning aproximation) of propositions from US2016D1Reddit corpus. I then calculate semantic similarity between pairs of propsitions A and B, some of which are premise-conclusion pairs while some are not. Finally I try to create a neural network which takes semantic similiarity of A and B pair as input and predicts whether A and B are premise-conlusions pairs. 
 <br/>
+
 For more details read the article (in Polish, unpublished) describing the project and the code:  
 [Article_SemanticSimiliarity _and_argumentation.pdf](https://github.com/WojtekPachowiak/Argumentation_SemanticSimiliarity_Python/files/6258989/Article_SemanticSimiliarity._and_argumentation.pdf)
 
